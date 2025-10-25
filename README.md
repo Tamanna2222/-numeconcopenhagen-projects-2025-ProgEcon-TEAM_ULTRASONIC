@@ -5,11 +5,11 @@ Tamanna Shabnam (vfc208)
 Jie Zhou (zlh638) 
 SHIH-HSUEH LEE (vxp299)
 
-This repository contains:*
+**This repository contains:***
 
-Data project
-Model project
-Exam project
+1. Data project
+1. Model project
+1. Exam project
 All code can be run with a standard Anaconda Distribution for Python 3.13.
 
 DATA PROJECT
