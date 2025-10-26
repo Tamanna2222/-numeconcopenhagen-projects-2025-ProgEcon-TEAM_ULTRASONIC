@@ -1,4 +1,4 @@
-# Supersonic
+# Ultrasonic
 
 **Group members:**
 Tamanna Shabnam (vfc208) 
